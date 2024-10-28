@@ -35,3 +35,12 @@ __________
 | 2. coldOutlier| Relleno verde 🟩 | Polígono donde los valores de la variable de análisis son bajos, pero está rodeado de polígonos con valores elevados.                    |
 | 3. coldSpot   | Relleno negro ⬛ | Polígono donde los valores de la variable de análisis son bajos y está rodeado de polígonos con valores también bajos.                   |
 | 4. hotOutlier | Relleno naranja 🟧 | Polígono donde los valores de la variable de análisis son altos, pero está rodeado de polígonos con valores bajos.                       |
+
+Insertar mapas aquí
+
+___
+
+**Enlace a la tarea**:
+
+**Enlage al archivo Geopackage del mapa**:
+
