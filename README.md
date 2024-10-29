@@ -47,5 +47,5 @@ ___
 =======
 ### **Contenido de la data** 📈
 
-😺 enlace a la tarea:
+😺 enlace a la tarea: https://nicosil02.github.io/Redes2/geoDF_ANALYTICS.html
 
