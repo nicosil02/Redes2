@@ -41,9 +41,9 @@ Insertar mapas aquí
 
 ___
 
-**Enlace a la tarea**: https://nicosil02.github.io/Redes2/geoDF_ANALYTICS.html
+**Enlace a la tarea**: 
 
-**Enlage al archivo Geopackage del mapa**:
+**Enlace al archivo Geopackage del mapa**:
 =======
 ### **Contenido de la data** 📈
 
