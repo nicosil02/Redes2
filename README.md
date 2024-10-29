@@ -10,7 +10,6 @@ Esta tarea consiste en la elaboración de mapas correspondientes al número de c
 
 ---------------------------------------
 
-<<<<<<< Avances_nicolas
 ### **Diccionario de datos** 📍
 
 | **Variable**     | **Tipo**     | **Denominación**                            | **Valores**                               |
