@@ -31,10 +31,10 @@ __________
 
 | Nombre        | Elemento         | Descripción                                                                                                                              |
 |---------------|------------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. hotSpot    | Relleno rojo 🟥   | Polígono donde los valores de la variable de análisis (sea contagios o fallecidos) son altos y se encuentra rodeado de polígonos con valores también elevados. |
-| 2. coldOutlier| Relleno verde 🟩 | Polígono donde los valores de la variable de análisis son bajos, pero está rodeado de polígonos con valores elevados.                    |
-| 3. coldSpot   | Relleno negro ⬛ | Polígono donde los valores de la variable de análisis son bajos y está rodeado de polígonos con valores también bajos.                   |
-| 4. hotOutlier | Relleno naranja 🟧 | Polígono donde los valores de la variable de análisis son altos, pero está rodeado de polígonos con valores bajos.                       |
+| 1. hotSpot    | Relleno rojo 🟥   | Polígono donde los valores de la variable de análisis (sea contagios o fallecidos) son **altos** y se encuentra rodeado de polígonos con valores también **elevados**. |
+| 2. coldOutlier| Relleno verde 🟩 | Polígono donde los valores de la variable de análisis son **bajos**, pero está rodeado de polígonos con valores **elevados**.                    |
+| 3. coldSpot   | Relleno negro ⬛ | Polígono donde los valores de la variable de análisis son **bajos** y está rodeado de polígonos con valores también **bajos**.                   |
+| 4. hotOutlier | Relleno naranja 🟧 | Polígono donde los valores de la variable de análisis son **altos**, pero está rodeado de polígonos con valores **bajos**.                       |
 
 Mapa para fallecidos 
 ---
