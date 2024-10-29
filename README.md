@@ -37,15 +37,17 @@ __________
 | 3. coldSpot   | Relleno negro ⬛ | Polígono donde los valores de la variable de análisis son bajos y está rodeado de polígonos con valores también bajos.                   |
 | 4. hotOutlier | Relleno naranja 🟧 | Polígono donde los valores de la variable de análisis son altos, pero está rodeado de polígonos con valores bajos.                       |
 
-Insertar mapas aquí
+Mapa para fallecidos 
+---
+![output](https://github.com/user-attachments/assets/2469a998-192f-47d7-ae1a-b1ceaa4ed093)
+
+Mapa para contagiados
+---
+![2](https://github.com/user-attachments/assets/3966ab2e-e7d9-48e7-a74e-140489351120)
 
 ___
 
-**Enlace a la tarea**:
+**Enlace a la tarea**😺: https://nicosil02.github.io/Redes2/geoDF_ANALYTICS.html
 
-**Enlage al archivo Geopackage del mapa**:
-=======
-### **Contenido de la data** 📈
 
-😺 enlace a la tarea:
 
