@@ -38,11 +38,11 @@ __________
 
 Mapa para fallecidos 
 ---
-![output](https://github.com/user-attachments/assets/2469a998-192f-47d7-ae1a-b1ceaa4ed093)
+![f2](https://github.com/user-attachments/assets/70ef8901-2f30-493f-a15f-9b3441762743)
 
 Mapa para contagiados
 ---
-![2](https://github.com/user-attachments/assets/3966ab2e-e7d9-48e7-a74e-140489351120)
+![c2](https://github.com/user-attachments/assets/a5a8715a-fdaa-4119-b3bc-7264391dcc0d)
 
 ___
 
