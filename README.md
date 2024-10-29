@@ -48,5 +48,4 @@ ___
 ### **Contenido de la data** 📈
 
 😺 enlace a la tarea:
->>>>>>> main
 
