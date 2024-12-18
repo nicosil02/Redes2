@@ -1,4 +1,4 @@
-# Tarea: Analytics on GeoDataFrames - COVID-19 ☣️
+# Analytics on GeoDataFrames - COVID-19 ☣️
 
 Alumnos:
 * Nicolas Silva Andujar
